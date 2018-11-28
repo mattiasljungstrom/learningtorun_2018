@@ -50,6 +50,7 @@ pip install pymsgbox
 1> python farm.py
 
 2> python -m IPython -i ddpg_multi_tf.py
+
 2> r(20000)
 
 Use test_multi.py and test_end.ipynb to evaluate results.

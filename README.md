@@ -14,7 +14,7 @@ https://www.crowdai.org/challenges/neurips-2018-ai-for-prosthetics-challenge/lea
 * Memory code based on baseline code: https://github.com/openai/baselines/blob/master/baselines/ddpg/memory.py
 
 
-## Code by Mattias Ljungström
+## New Features
 
 * All code optimized and rewritten to use only tensorflow 1.8.
 * Added training and inference with multiple actor-critic pairs.

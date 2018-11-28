@@ -1,8 +1,6 @@
 
 
-# README - DDPG
-
-An asynchronous DDPG Reinforcement Learning algorithm with multiple Actor-Critic pairs.
+# An asynchronous DDPG Reinforcement Learning algorithm with multiple Actor-Critic pairs
 
 Fourth place in NeurIPS 2018: AI for Prosthetics Challenge: 
 https://www.crowdai.org/challenges/neurips-2018-ai-for-prosthetics-challenge/leaderboards
